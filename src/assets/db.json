@@ -1,0 +1,59 @@
+{
+    "books": [
+      {
+        "id": 100001,
+        "isbn": 45,
+        "title": "Charmander",
+        "condition": "Blaze",
+        "published": 20,
+        "price": "Fire",
+        "freeShipping": true
+      },
+      {
+        "id": 100002,
+        "isbn": 45,
+        "title": "Bulbasaur",
+        "condition": "Overgrow",
+        "published": 20,
+        "price": "Grass/Poison",
+        "freeShipping": false
+      },
+      {
+        "id": 100003,
+        "isbn": 45,
+        "title": "Squirtle",
+        "condition": "Torrent",
+        "published": 20,
+        "price": "Water",
+        "freeShipping": true
+      },
+      {
+        "id": 100004,
+        "isbn": 45,
+        "title": "Ivysaur",
+        "condition": "Chlorophyll",
+        "published": 20,
+        "price":  "Grass/Poison",
+        "freeShipping": true
+      },
+      {
+        "id": 100005,
+        "isbn": 45,
+        "title": "Charmeleon",
+        "condition": "Blaze Power",
+        "published": 20,
+        "price": "Fire",
+        "freeShipping": true
+      },
+      {
+        "id": 100006,
+        "isbn": 45,
+        "title": "Wartortle",
+        "condition": "Rain Dish",
+        "published": 20,
+        "price": "Water",
+        "freeShipping": true
+      }
+    ]
+  }
+  
