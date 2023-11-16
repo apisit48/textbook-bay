@@ -1,6 +1,5 @@
 <script setup>
 import { RouterLink, RouterView } from 'vue-router'
-// import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
@@ -33,9 +32,11 @@ nav {
 }
 nav a {
   font-weight: bold;
-  color: #2c3e50;
+  color: rgb(230, 124, 32);
 }
 nav a.router-link-exact-active {
-  color: #42b983;
+  color: rgb(24, 216, 126);
 }
+
+
 </style>
